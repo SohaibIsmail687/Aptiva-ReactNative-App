@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "934077313767",
+    "project_id": "aptiva-5cc5f",
+    "storage_bucket": "aptiva-5cc5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934077313767:android:b637995ea459576cb6e842",
+        "android_client_info": {
+          "package_name": "com.aptiva"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsAD-CV054aEqMjxL5np5UZEB7Oejm5yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
